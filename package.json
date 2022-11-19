@@ -24,9 +24,9 @@
         "react": "^16.9.0",
         "react-dom": "^16.9.0",
         "style-loader": "^1.0.0",
-        "svg-inline-loader": "^0.8.0",
+        "svg-inline-loader": "^0.8.2",
         "webpack": "^4.5.0",
-        "webpack-cli": "^3.3.7"
+        "webpack-cli": "^3.3.12"
     },
     "dependencies": {
         "@apollo/react-components": "^3.1.0",
